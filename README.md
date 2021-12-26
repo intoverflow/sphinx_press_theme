@@ -1,7 +1,7 @@
 # sphinx_press_theme
 
 
-[![PyPI](https://img.shields.io/pypi/v/sphinx_press_theme.svg)](https://pypi.python.org/pypi/sphinx_press_theme)
+[![PyPI](https://img.shields.io/pypi/v/sphinx-press-theme.svg)](https://pypi.python.org/pypi/sphinx-press-theme)
 
 Please help me keep this project alive [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A23ZL4A)
 
@@ -25,7 +25,7 @@ Contributions are welcome.
 First install the theme:
 
 ```
-$ pip install sphinx_press_theme
+$ pip install sphinx-press-theme
 ```
 
 Sphinx version compatibility
